@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/frontend-mern-app/static/css/main.bd4402f7.chunk.css",
+    "main.js": "/frontend-mern-app/static/js/main.22c3b832.chunk.js",
+    "main.js.map": "/frontend-mern-app/static/js/main.22c3b832.chunk.js.map",
+    "runtime~main.js": "/frontend-mern-app/static/js/runtime~main.c4480d47.js",
+    "runtime~main.js.map": "/frontend-mern-app/static/js/runtime~main.c4480d47.js.map",
+    "static/css/2.a30cb989.chunk.css": "/frontend-mern-app/static/css/2.a30cb989.chunk.css",
+    "static/js/2.ec9a9eee.chunk.js": "/frontend-mern-app/static/js/2.ec9a9eee.chunk.js",
+    "static/js/2.ec9a9eee.chunk.js.map": "/frontend-mern-app/static/js/2.ec9a9eee.chunk.js.map",
+    "index.html": "/frontend-mern-app/index.html",
+    "precache-manifest.675518c0d5eb4766084d1a662618c8f8.js": "/frontend-mern-app/precache-manifest.675518c0d5eb4766084d1a662618c8f8.js",
+    "service-worker.js": "/frontend-mern-app/service-worker.js",
+    "static/css/2.a30cb989.chunk.css.map": "/frontend-mern-app/static/css/2.a30cb989.chunk.css.map",
+    "static/css/main.bd4402f7.chunk.css.map": "/frontend-mern-app/static/css/main.bd4402f7.chunk.css.map",
+    "static/media/all.min.css": "/frontend-mern-app/static/media/fa-solid-900.f9b8a1aa.eot"
+  }
+}
